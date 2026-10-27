@@ -1,0 +1,46 @@
+Level 2: Intermediate (10 questions)
+Focus: Data type ranges, precision, type conversion, and expressions.
+Intermediate exercises
+0/10 completed
+
+[ ] 11. Find the valid data type
+
+Choose the smallest suitable primitive integer type for each value: 100, 30000, 100000, and 9000000000. Declare and print all four values.
+
+[ ] 12. Range boundary testing
+
+Write a program that declares byte variables with values -128 and 127. Then try assigning 128 to a byte in a separate test. Observe the compiler error and explain why it occurs.
+
+[ ] 13. Integer division vs decimal division
+
+Declare int a = 7 and int b = 2. Print a / b. Then use double variables with the same values and print their quotient. Explain the difference.
+
+[ ] 14. Floating-point precision
+
+Store 1.23456789 in a float and a double. Print both using System.out.println and compare the displayed values.
+
+[ ] 15. Character code
+
+Declare a char variable with the value 'A'. Print the character and then print its numeric code by converting it to int.
+
+[ ] 16. Type conversion
+
+Declare an int with value 100. Convert it to a double and print both variables. Then convert a double with value 98.76 to int and print the result.
+
+[ ] 17. Calculate a percentage
+
+Store obtained marks and total marks in int variables. Calculate the percentage using double so that the result retains decimal precision. Test it with 87 out of 100, and then 2 out of 3.
+
+[ ] 18. Overflow experiment
+
+Assign 127 to a byte variable. Add 1 to it and store the result back into the same byte using a compound assignment. Print the result and explain the overflow.
+
+[ ] 19. Boolean expressions
+
+Declare two int variables and create boolean variables that check whether the first number is greater than the second, whether they are equal, and whether both numbers are positive.
+
+[ ] 20. Mixing primitive types
+
+Declare an int, a long, a float, and a double. Perform an arithmetic expression using all four. Print the result and identify its resulting data type.
+
+

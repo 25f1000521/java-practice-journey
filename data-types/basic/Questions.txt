@@ -1,0 +1,46 @@
+Level 1: Basic (10 questions)
+Focus: Declaring variables, assigning values, and printing output.
+Basic exercises
+0/10 completed
+
+[ ] 1. Declare and print
+
+Declare one variable of each of the 8 primitive data types, assign a suitable value to each, and print all the values.
+
+[ ] 2. Student information
+
+Store a student's age using int, percentage using double, grade using char, and pass status using boolean. Print all four values with meaningful labels.
+
+[ ] 3. Temperature storage
+
+Declare a byte variable for a temperature of 25°C, a short variable for 1500, and an int variable for 100000. Print their values.
+
+[ ] 4. Large numbers
+
+Declare a long variable to store 9876543210. Print the number. Make sure the literal is written correctly.
+
+[ ] 5. Float vs double
+
+Store 12.75 in a float and 12.75 in a double. Print both values. Use the correct literal syntax.
+
+[ ] 6. Character practice
+
+Declare three char variables storing your initial, a symbol such as #, and a digit character such as '7'. Print them.
+
+[ ] 7. Boolean variables
+
+Create boolean variables named isStudent, isJavaLearner, and hasCompletedCourse. Assign true or false values and print them.
+
+[ ] 8. Arithmetic with int
+
+Declare two int variables with values 25 and 7. Print their sum, difference, product, quotient, and remainder.
+
+[ ] 9. Decimal calculations
+
+Declare two double variables with values 15.5 and 4.0. Print their sum, difference, product, and quotient.
+
+[ ] 10. Predict the output
+
+Without running the code, predict the output: int a = 10; int b = 3; System.out.println(a / b); System.out.println(a % b);
+
+

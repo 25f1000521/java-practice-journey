@@ -1,0 +1,36 @@
+Level 3: Advanced (8 questions)
+Focus: Combining concepts, debugging, and understanding Java's type rules.
+Advanced exercises
+0/8 completed
+
+[ ] 21. Predict multiple outputs
+
+Predict every output before running the code: byte a = 10; byte b = 20; int c = a + b; System.out.println(c); Explain why the sum is stored in an int.
+
+[ ] 22. Find and fix compilation errors
+
+Write a program containing these declarations: byte a = 200; long b = 9000000000; float c = 5.7; char d = "A"; boolean e = 1;. Compile it, identify each error, and correct the declarations.
+
+[ ] 23. Numeric narrowing
+
+Declare int number = 130 and convert it to byte using an explicit cast. Print both values and explain why the byte value differs from the original.
+
+[ ] 24. Precision and equality
+
+Declare double a = 0.1 + 0.2 and double b = 0.3. Print a, b, and the result of a == b. Explain why the equality comparison may be false.
+
+[ ] 25. Character arithmetic
+
+Declare char letter = 'A'. Print letter, letter + 1, and (char)(letter + 1). Explain why the three outputs differ.
+
+[ ] 26. Build a primitive data report
+
+Create one variable of every primitive type. Print the variable name, value, and the number of bits used by its specified primitive type. For boolean, explain why Java does not specify a fixed storage size.
+
+[ ] 27. Safe range checking
+
+Write a program that accepts an integer and checks whether it falls within the byte range (-128 to 127). Store the result in a boolean and print it. Do not cast the value before checking.
+
+[ ] 28. Mini calculator with mixed types
+
+Declare two int values and two double values. Calculate the integer sum, decimal sum, mixed-type sum, and average of all four numbers. Ensure the average is calculated using floating-point division.
