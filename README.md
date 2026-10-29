@@ -4,10 +4,10 @@ In this repo i practice java language , main focus of learning this language is 
 
 # Folder-Details
 
-** PPA **
+**PPA**
 - In this folder i have solved "IITM BS DATA SCIENCE" Java all Practice Programming Assignments(PPA).
 
-** GRPA **
+**GRPA**
 - In this Folder i have solved "IITM BS DATA SCIENCE" Java all Graded Programming Assignments(GRPA).
 
 
